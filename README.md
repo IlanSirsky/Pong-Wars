@@ -1,13 +1,9 @@
 # Pong Wars
 It's the eternal battle between day and night, good and bad. Written in Python in one pythong.
 
-Based on [vnglst repository](https://github.com/vnglst/pong-wars).
+Based on [vnglst's repository](https://github.com/vnglst/pong-wars).
 
-
-<video width="320" height="240" controls>
-  <source src="https://i.imgur.com/nbbstdf.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/IlanSirsky/Pong-Wars/assets/74298243/89c17d7d-2d47-4a55-b6b2-4e425fca3e92
 
 ## Running
 Make sure you have pygame installed: `pip install pygame`
