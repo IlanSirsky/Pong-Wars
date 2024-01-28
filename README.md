@@ -1,5 +1,5 @@
 # Pong Wars
-It's the eternal battle between day and night, good and bad. Written in Python in one pythong.
+It's the eternal battle between day and night, good and bad. Written in Python.
 
 Based on [vnglst's repository](https://github.com/vnglst/pong-wars).
 
